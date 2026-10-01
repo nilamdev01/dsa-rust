@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/nilamdev01/dsa-rust/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/nilamdev01/dsa-rust/tree/master/0479-largest-palindrome-product) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/nilamdev01/dsa-rust/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
