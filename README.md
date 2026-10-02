@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0022-generate-parentheses) |
 | [0458-poor-pigs](https://github.com/nilamdev01/dsa-rust/tree/master/0458-poor-pigs) |
 ## Combinatorics
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -28,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0022-generate-parentheses) |
 ## Enumeration
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/nilamdev01/dsa-rust/tree/master/0479-largest-palindrome-product) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
