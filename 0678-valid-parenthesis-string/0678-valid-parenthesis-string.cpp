@@ -22,7 +22,7 @@ public:
             if (high < 0)
                 return false;
 
-            // Minimum cannot be negative
+           
             low = max(low, 0);
         }
 
