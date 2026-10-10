@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
 | [0301-remove-invalid-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
@@ -71,4 +72,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nilamdev01/dsa-rust/tree/master/0301-remove-invalid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
