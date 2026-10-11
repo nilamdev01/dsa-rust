@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/nilamdev01/dsa-rust/tree/master/0479-largest-palindrome-product) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nilamdev01/dsa-rust/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nilamdev01/dsa-rust/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
