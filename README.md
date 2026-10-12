@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/nilamdev01/dsa-rust/tree/master/0060-permutation-sequence) |
 | [0458-poor-pigs](https://github.com/nilamdev01/dsa-rust/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/nilamdev01/dsa-rust/tree/master/0479-largest-palindrome-product) |
 ## Dynamic Programming
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nilamdev01/dsa-rust/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/nilamdev01/dsa-rust/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
